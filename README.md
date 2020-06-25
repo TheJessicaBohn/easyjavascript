@@ -6,7 +6,7 @@ então baixe e instale o NodeJs https://nodejs.org/pt-br/download/current/ e VSc
 
 Após instalados, vá nas extenções do VSCode e instale o Code Runner.
 
-Após isso abra o código puxando ou abrindo pelo file, e clique no triangulo para executar(o triangulo só aparece quando o Code Runner está instalado)
+Após isso abra o código puxando o arquivo ou pasta para o programa aberto, ou abrindo pelo file, e clique no triangulo para executar(o triangulo só aparece quando o Code Runner está instalado)
 
 - 1 quatroOperacoes, faz as quatro operações básicas matematicas, somar, subtrair, multiplicar
 
