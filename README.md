@@ -8,5 +8,6 @@ Após instalados, vá nas extenções do VSCode e instale o Code Runner.
 
 Após isso abra o código puxando o arquivo ou pasta para o programa aberto, ou abrindo pelo file, e clique no triangulo para executar(o triangulo só aparece quando o Code Runner está instalado)
 
-- 1 quatroOperacoes, faz as quatro operações básicas matematicas, somar, subtrair, multiplicar
-- 2 verdadeiroFalso, é uma função em que faz verifica se o número retornado é divisivel por 3 e retorna se é verdadeiro ou falso
+- 1 quatroOperacoes, faz as quatro operações básicas matematicas, somar, subtrair, multiplicar;
+- 2 verdadeiroFalso, é uma função em que faz verifica se o número retornado é divisivel por 3 e retorna se é verdadeiro ou falso;
+- 3 imprime, apesar de simples a operação utiliza um exemplo de loop em while, para retornar parlavras repetidas.
