@@ -10,4 +10,5 @@ Após isso abra o código puxando o arquivo ou pasta para o programa aberto, ou 
 
 - 1 quatroOperacoes, faz as quatro operações básicas matematicas, somar, subtrair, multiplicar;
 - 2 verdadeiroFalso, é uma função em que faz verifica se o número retornado é divisivel por 3 e retorna se é verdadeiro ou falso;
-- 3 imprime, apesar de simples a operação utiliza um exemplo de loop em while, para retornar parlavras repetidas.
+- 3 imprime, apesar de simples a operação utiliza um exemplo de loop em while, para retornar palavras repetidas;
+- 4 encontraPar, esse programa, mostra na tela quais são os pares e mostra o valor final de quantos valores retornaram.
