@@ -13,4 +13,5 @@ Após isso abra o código puxando o arquivo ou pasta para o programa aberto, ou 
 - 3 imprime, apesar de simples a operação utiliza um exemplo de loop em while, para retornar palavras repetidas;
 - 4 encontraPar, esse programa, mostra na tela quais são os pares e mostra o valor final de quantos valores retornaram;
 - 5 triangulos, verifica qual o tipo do triangulofoi passado por parametro;
-- 6 quitanda, é um exemplo simples de switch case;
+- 6 quitanda, é um exemplo simples de switch case, com um caso positivo, um negativo e um default;
+- 7 Arrey, é um exemplo com utilização de arrey,contendo uma função com valores a serem guardados dentro de um Arrey, e com divisão e resto de divisão. 
