@@ -15,4 +15,6 @@ Após isso abra o código puxando o arquivo ou pasta para o programa aberto, ou 
 - 5 triangulos, verifica qual o tipo do triangulofoi passado por parametro;
 - 6 quitanda, é um exemplo simples de switch case, com um caso positivo, um negativo e um default;
 - 7 arrey, é um exemplo com utilização de arrey,contendo uma função com valores a serem guardados dentro de um Arrey, e com divisão e resto de divisão;
-- 8 fatorial, temos nesse exemplo o calculo fatorial com recursividade.
+- 8 fatorial, temos nesse exemplo o calculo fatorial com recursividade;
+- 9 Semana, é um programa de exemplo Switch, que exibe se um dia é dia útil, fim de semana ou dia inválido, que é o default, e foi considerado o número referente ao dia. Considere que domingo é o dia 1 e sábado é o dia 7.
+
